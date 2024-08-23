@@ -7,13 +7,12 @@ Main contact:
 - Discord: **lightgirix**
 
 ## Who am I?
-I'm a **computer engineering student** studying at Chulalongkorn University in the  
-*Computer Engineering and Digital Technology* cirriculum.
+I'm a **computer engineering student** studying at Chulalongkorn University in the *Computer Engineering and Digital Technology* cirriculum.
 
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/nisit-chula.svg)
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/cedt-engineer.svg)
 
-I do, if possible, want to work as a **Game Developer** or any work related to creating games!.
+I do, if possible, want to work as a **Game Developer** or any work related to creating games!
 
 My favorite games including but not limited to:
 - **UNDERTALE & DELTARUNE** ❤️
