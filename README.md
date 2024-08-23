@@ -1,19 +1,31 @@
 # LightGirix
-Hello, my real name is Teetath Sukhawattana 🙂, better know me online as Light (he/him) 
+Hello, my real name is Teetath Sukhawattana! Better know me online as Light (he/him) 
 (not to confuse with other Light(s) out there!)
-> Be eepy! And happy!
+> Be eepy and happy!
+
+Main contact:
+- Discord: **lightgirix**
 
 ## Who am I?
-I'm a computer engineering student studying at Chulalongkorn University in the  
+I'm a **computer engineering student** studying at Chulalongkorn University in the  
 *Computer Engineering and Digital Technology* cirriculum.
 
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/nisit-chula.svg)
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/cedt-engineer.svg)
 
+I do, if possible, want to work as a **Game Developer** or any work related to creating games!.
+
+My favorite games including but not limited to:
+- UNDERTALE, DELTARUNE ❤️
+- Stardew Valley 🐥
+- Slay the Spire 🃏
+- OMORI 😐
+- The Mystery of Caketropolis 🐲
+
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=LightGirix&show_icons=true)
 
-## My skills level
+## My Skill Level
 - Fundamental
    
 ![](https://skillicons.dev/icons?i=python,cpp)  
