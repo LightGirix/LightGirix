@@ -16,11 +16,11 @@ I'm a **computer engineering student** studying at Chulalongkorn University in t
 I do, if possible, want to work as a **Game Developer** or any work related to creating games!.
 
 My favorite games including but not limited to:
-- UNDERTALE, DELTARUNE ❤️
-- Stardew Valley 🐥
-- Slay the Spire 🃏
-- OMORI 😐
-- The Mystery of Caketropolis 🐲
+- **UNDERTALE & DELTARUNE** ❤️
+- **Stardew Valley** 🐥
+- **Slay the Spire** 🃏
+- **OMORI** 😐
+- **The Mystery of Caketropolis** 🐲
 
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=LightGirix&show_icons=true)
