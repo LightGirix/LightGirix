@@ -27,7 +27,7 @@ My favorite games including but not limited to:
 ## My Skill Level
 - Fundamental
    
-![](https://skillicons.dev/icons?i=python,cpp, java)  
+![](https://skillicons.dev/icons?i=python,cpp,java)  
 - Zero, but will soon have to learn (or else I can't pass to next year).
     
 ![](https://skillicons.dev/icons?i=c,html,css,js,nodejs,react,linux)
