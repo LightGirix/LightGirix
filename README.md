@@ -27,11 +27,11 @@ My favorite games including but not limited to:
 ## My Skills
 - Used to learn/use these in class
    
-![](https://skillicons.dev/icons?i=python,cpp,java,git,github,html,css,js,nodejs,postman,react,nextjs,postgres,mongodb,figma,docker)  
+![](https://skillicons.dev/icons?i=python,cpp,java,git,github,html,css,js,nodejs,postman,react,nextjs,postgres,mongodb,figma,docker,cs,unity)  
 
 - I'm interested to learn
 
-![](https://skillicons.dev/icons?i=cs,unity,unreal,blender,kubernetes)
+![](https://skillicons.dev/icons?i=unreal,blender,kubernetes)
 
 ## Anything else?
 - Bed is the best invention of sapientkind!
