@@ -1,8 +1,7 @@
 # LightGirix
 Hello, my real name is Teetath Sukhawattana! You can address me by:
 - My IRL nickname or Light (most preferred)
-- Glitter (if somehow there's more than one Light)
-- Lucas (if you prefer some realistic-and-easy-to-pronounce one)
+- Glitter (dragon name)
 
 > Be eepy and happy!
 
